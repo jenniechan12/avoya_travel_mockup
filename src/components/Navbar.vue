@@ -63,4 +63,7 @@ export default {
 	height: 36px;
 	border-radius: 0;
 }
+.ml-auto {
+	margin-left: auto;
+}
 </style>
